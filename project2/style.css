@@ -95,36 +95,6 @@ li{
 
 
 
-/* navbar css */
-
-.topnav {
-    background-color: green;
-    overflow: hidden;
-    
-  }
-.topnav a {
-    float: left;
-    display: flex;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-
-.topnav a:hover {
-    background-color: rgb(78, 194, 55);
-    color: yellow;
-  }
-  /* .topnav a.active {
-    background-color: rgb(78, 194, 55);
-    color: white;
-  } */
-
-/* end navbar css */
-
-
-
 .btn-click {
     background-color: green;
     border: none;
@@ -154,6 +124,8 @@ li{
     animation-iteration-count: 4;
 
 }
+
+
 
 /* @keyframes animation1 {
 
